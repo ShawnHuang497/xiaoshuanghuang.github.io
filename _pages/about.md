@@ -93,7 +93,7 @@ Under Review.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BIBM2023</div><img src='images/BIBM2024-polyp2former.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BIBM2023</div><img src='images/BIBM2023-polyp2former.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Polyp2Former: Boundary Guided Network Based on Transformer for Polyp Segmentation](https://ieeexplore.ieee.org/document/10385257)
 
@@ -118,7 +118,7 @@ International Conference on Artificial Neural Networks (ICANN), 2023. (CCF-C.)
 </div>
 </div>
 
-</div> -->
+
 
 # 💻 Internships
 
