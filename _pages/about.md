@@ -162,6 +162,8 @@ International Conference on Artificial Neural Networks (ICANN), 2023. (CCF-C.)
 - *2019* National Encouragement Scholarship. 
 
 
+# Patents
+- Chinese invention patent: Training method, inference method, device, apparatus and storage medium for large language model. (The first inventor, Publication No.: CN118673325A)
 
 <!-- # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
