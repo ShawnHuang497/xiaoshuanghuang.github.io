@@ -122,28 +122,31 @@ International Conference on Artificial Neural Networks (ICANN), 2023. (CCF-C.)
 
 # 💻 Internships
 
+
+- *2024.03 - Present* Xiaohongshu, Beijing, China.
+- *2024.01 - 2024.08* Baidu, Beijing, China.
+- *2022.02 - 2022.09* SenseTime, Shanghai, China.
+
+
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
   <div style="text-align: center;">
-    <img src="images/baidu.png" alt="Baidu" style="width: 100px;">
+    <img src="images/baidu.png" alt="Baidu" style="width: 100px; height: 50px;">
     <!-- <p>Company 1</p> -->
   </div>
 
   <div style="text-align: center;">
-    <img src="images/sensetime.jpeg" alt="Sensetime" style="width: 100px;">
+    <img src="images/sensetime.jpeg" alt="Sensetime" style="width: 100px; height: 50px;">
     <!-- <p>Company 2</p> -->
   </div>
 
   <div style="text-align: center;">
-    <img src="images/xiaohongshu.png" alt="Xiaohongshu" style="width: 100px;">
+    <img src="images/xiaohongshu.png" alt="Xiaohongshu" style="width: 100px; height: 50px;">
     <!-- <p>Company 3</p> -->
   </div>
 
 </div>
 
-- *2024.03 - Present* Xiaohongshu, Beijing, China.
-- *2024.01 - 2024.08* Baidu, Beijing, China.
-- *2022.02 - 2022.09* SenseTime, Shanghai, China.
 
 # 🎖 Honors and Awards
 - *2024* National Scholarship. 
