@@ -22,7 +22,10 @@ Xiaoshuang Huang is a final year master's student at China Agricltural Universit
 
 
 
-I am eager to contribute to research in areas such as, but not limited to **Multi-modal Large Language Model (MLLM)** and **Visual Comprehension**.
+I am eager to contribute to research in areas such as, but not limited to:
+- **Multi-modal Large Language Model (MLLM)**
+- **Visual Comprehension**
+- **Mixture of Experts**
 
 If interested in collaboration or discussion, please [email](huangxs497@gmail.com
 ) me.
