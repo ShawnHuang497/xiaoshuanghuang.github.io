@@ -22,7 +22,7 @@ Xiaoshuang Huang is a final year master's student at China Agricltural Universit
 
 
 
-I am eager to contribute to research in areas such as, but not limited to Multi-modal Large Language Model (MLLM) and Visual Comprehension.
+I am eager to contribute to research in areas such as, but not limited to **Multi-modal Large Language Model (MLLM)** and **Visual Comprehension**.
 
 If interested in collaboration or discussion, please [email](huangxs497@gmail.com
 ) me.
@@ -141,7 +141,7 @@ International Conference on Artificial Neural Networks (ICANN), 2023. (CCF-C.)
   </div>
 
   <div style="text-align: center;">
-    <img src="images/xiaohongshu.png" alt="Xiaohongshu" style="width: 100px; height: 40px;">
+    <img src="images/xiaohongshu.png" alt="Xiaohongshu" style="width: 70px; height: 40px;">
     <!-- <p>Company 3</p> -->
   </div>
 
