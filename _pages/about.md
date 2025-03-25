@@ -26,9 +26,9 @@ I am eager to contribute to research in areas such as, but not limited to:
 - **Multi-modal Large Language Model (MLLM)**
 - **Visual Comprehension**
 - **Mixture of Experts**
+- **The Application of MLLM**
 
-If interested in collaboration or discussion, please [email](huangxs497@gmail.com
-) me.
+<span style="color:red">Recently I'm looking for job opportunities</span>. If interested in discussion or collaboration, please [email me](mailto:huangxs497@gmail.com).
 
 
 
