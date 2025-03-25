@@ -173,11 +173,12 @@ International Conference on Artificial Neural Networks (ICANN), 2023. (CCF-C.)
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
-<div style="text-align: center; margin: 20px 0;">
-  <hr style="border: 0; height: 1px; background: #ccc; margin-bottom: 10px;">
-  <span style="background: white; padding: 0 10px; position: relative; top: -12px; color: #666;">endline</span>
+<div style="display: flex; align-items: center; margin: 20px 0;">
+  <div style="flex: 1; height: 1px; background: #ccc;"></div>
+  <span style="margin: 0 10px; color: #666;">End Line</span>
+  <div style="flex: 1; height: 1px; background: #ccc;"></div>
 </div>
 
-<div style="width: 150px; height: 150px; overflow: hidden; text-align: center;">
+<div style="width: 150px; height: 150px; overflow: hidden; margin: 0 auto;">
   <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=mgATiKvAaShFPTFxK4qXp0MziG8vwfnWGKw1wzZSEvQ"></script>
 </div>
