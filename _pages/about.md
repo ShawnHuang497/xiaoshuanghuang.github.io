@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Xiaoshuang Huang is a final year master's student at China Agricltural University.
+Xiaoshuang Huang is a final year master's student at China Agricultural University.
 
 
 
@@ -39,7 +39,7 @@ I will be graduating on July 1, 2025, and am available to start employment immed
 - *2024.12*: &nbsp; Got **Chinese National Scholarship**.
 - *2024.12*: &nbsp; One paper is accepted to IEEE TMI (Top journal, IF=11.3).
 - *2023.11*: &nbsp; Got Master's First-Class Academic Scholarship.
-- *2024.05*: &nbsp; Two paper is accepted to MICCAI 2023 (CCF-B).
+- *2024.05*: &nbsp; Two paper are accepted to MICCAI 2023 (CCF-B).
 - *2023.12*: &nbsp; One paper is accepted to BIBM 2023 (CCF-B).
 - *2023.11*: &nbsp; Got Master's First-Class Academic Scholarship.
 - *2023.07*: &nbsp; One paper is accepted to ICANN 2023 (CCF-C).
@@ -47,7 +47,7 @@ I will be graduating on July 1, 2025, and am available to start employment immed
 
 
 # 📝 Selected Publications
-See full list at [Google Scholar](https://scholar.google.com/citations?user=F-PndVsAAAAJ).
+See the full list at [Google Scholar](https://scholar.google.com/citations?user=F-PndVsAAAAJ).
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI2025</div><img src='images/AAAI2025-medplib.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [MedPLIB: Towards a Multimodal Large Language Model with Pixel-Level Insight for Biomedicine](https://arxiv.org/abs/2412.09278)
