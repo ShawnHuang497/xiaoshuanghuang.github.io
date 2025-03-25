@@ -30,6 +30,7 @@ I am eager to contribute to research in areas such as, but not limited to:
 
 
 I will be graduating on July 1, 2025, and am available to start employment immediately. 
+
 <span style="color:red"> Currently, I am exploring job opportunities </span> and would welcome discussions or collaborations. Please feel free to [email me](mailto:huangxs497@gmail.com) if interested.
 
 
