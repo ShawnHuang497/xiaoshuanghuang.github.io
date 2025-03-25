@@ -126,9 +126,9 @@ International Conference on Artificial Neural Networks (ICANN), 2023. (CCF-C.)
 # 💻 Internships
 
 
-- *2024.03 - Present* Xiaohongshu, Beijing, China.
-- *2024.01 - 2024.08* Baidu, Beijing, China.
-- *2022.02 - 2022.09* SenseTime, Shanghai, China.
+- *2025.03 - Present*: Xiaohongshu, Beijing, China.
+- *2024.01 - 2024.08*: Baidu, Beijing, China.
+- *2022.02 - 2022.09*: SenseTime, Shanghai, China.
 
 
 <div style="display: flex; flex-wrap: wrap; gap: 30px; justify-content: center;">
