@@ -29,9 +29,9 @@ I am eager to contribute to research in areas such as, but not limited to:
 - **The Application of MLLM**
 
 
-I will be graduating on July 1, 2025, and am available to start employment immediately. 
+I am currently working as a multimodal large model algorithm engineer at Xiaohongshu. 
 
-<span style="color:red"> Currently, I am exploring job opportunities </span> and would welcome discussions or collaborations. Please feel free to [email me](mailto:huangxs497@gmail.com) if interested.
+I welcome academic discussions or collaborations. Please feel free to [email me](mailto:huangxs497@gmail.com) if interested.
 
 
 # 🔥 News
@@ -44,6 +44,11 @@ I will be graduating on July 1, 2025, and am available to start employment immed
 - *2023.11*: &nbsp; Got Master's First-Class Academic Scholarship.
 - *2023.07*: &nbsp; One paper is accepted to ICANN 2023 (CCF-C).
 - *2022.03*: &nbsp; Got Outstanding Graduates of Sichuan Province.
+
+
+# 🧑‍💻 Work Experience 🧑‍💻
+
+- *2025.07 - Present*: Multimodal Large Model Algorithm Engineer, 【[Xiaohongshu](https://www.xiaohongshu.com/)】, 📍Shanghai, China.
 
 
 # 📝 Selected Publications
@@ -124,11 +129,10 @@ International Conference on Artificial Neural Networks (ICANN), 2023. (CCF-C.)
 </div>
 
 
-
 # 💻 Internships
 
 
-- *2025.03 - Present*: Xiaohongshu, Beijing, China.
+- *2025.03 - 2025.07*: Xiaohongshu, Beijing, China.
 - *2024.01 - 2024.08*: Baidu, Beijing, China.
 - *2022.02 - 2022.09*: SenseTime, Shanghai, China.
 
