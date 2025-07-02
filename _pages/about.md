@@ -35,6 +35,7 @@ I welcome academic discussions or collaborations. Please feel free to [email me]
 
 
 # 🔥 News
+- *2025.07*: &nbsp; Joined [Xiaohongshu](https://www.xiaohongshu.com/) as a Multimodal Large Model Algorithm Engineer.
 - *2024.12*: &nbsp; One paper is accepted to AAAI 2025 (CCF-A).
 - *2024.12*: &nbsp; Got **Chinese National Scholarship**.
 - *2024.12*: &nbsp; One paper is accepted to IEEE TMI (Top journal, IF=11.3).
