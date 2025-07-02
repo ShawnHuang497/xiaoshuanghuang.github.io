@@ -17,19 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Xiaoshuang Huang is a final year master's student at China Agricultural University.
-
-
-
-
-I am eager to contribute to research in areas such as, but not limited to:
+I am a Multimodal Large Model Algorithm Engineer. I am eager to contribute to research in areas such as, but not limited to:
 - **Multi-modal Large Language Model (MLLM)**
 - **Visual Comprehension**
 - **Mixture of Experts**
 - **The Application of MLLM**
-
-
-I am currently working as a multimodal large model algorithm engineer at Xiaohongshu. 
 
 I welcome academic discussions or collaborations. Please feel free to [email me](mailto:huangxs497@gmail.com) if interested.
 
