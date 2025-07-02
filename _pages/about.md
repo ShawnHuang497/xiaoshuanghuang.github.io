@@ -27,7 +27,7 @@ I welcome academic discussions or collaborations. Please feel free to [email me]
 
 
 # 🔥 News
-- *2025.07*: &nbsp; Joined [Xiaohongshu](https://www.xiaohongshu.com/) as a Multimodal Large Model Algorithm Engineer.
+- *2025.07*: &nbsp; Joined [Xiaohongshu (RED)](https://www.xiaohongshu.com/) as a Multimodal Large Model Algorithm Engineer.
 - *2024.12*: &nbsp; One paper is accepted to AAAI 2025 (CCF-A).
 - *2024.12*: &nbsp; Got **Chinese National Scholarship**.
 - *2024.12*: &nbsp; One paper is accepted to IEEE TMI (Top journal, IF=11.3).
@@ -41,7 +41,7 @@ I welcome academic discussions or collaborations. Please feel free to [email me]
 
 # 🧑‍💻 Work Experience 🧑‍💻
 
-- *2025.07 - Present*: Multimodal Large Model Algorithm Engineer, 【[Xiaohongshu](https://www.xiaohongshu.com/)】, 📍Shanghai, China.
+- *2025.07 - Present*: Multimodal Large Model Algorithm Engineer, 【[Xiaohongshu (RED)](https://www.xiaohongshu.com/)】, 📍Shanghai, China.
 
 
 # 📝 Selected Publications
