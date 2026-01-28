@@ -27,6 +27,7 @@ I welcome academic discussions or collaborations. Please feel free to [email me]
 
 
 # 🔥 News
+- *2026.01*: &nbsp; 🔥🔥🔥 A paper about unified model is accepted by ICLR 2026. Congratulation to Hongxiang!
 - *2025.07*: &nbsp; Joined [Xiaohongshu (RedNote)](https://www.xiaohongshu.com/) as a Multimodal Large Model Algorithm Engineer.
 - *2024.12*: &nbsp; One paper is accepted to AAAI 2025 (CCF-A).
 - *2024.12*: &nbsp; Got **Chinese National Scholarship**.
@@ -46,8 +47,21 @@ I welcome academic discussions or collaborations. Please feel free to [email me]
 
 # 📝 Selected Publications
 See the full list at [Google Scholar](https://scholar.google.com/citations?user=F-PndVsAAAAJ).
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI2025</div><img src='images/AAAI2025-medplib.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR2026</div><img src='images/ICLR2026-GIRbench.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+[GIR-Bench: Versatile Benchmark for Generating Images with Reasoning](https://hkust-longgroup.github.io/GIR-Bench/)
+
+Hongxiang Li, Yaowei Li, Bin Lin, Yuwei Niu, Yuhang Yang, **Xiaoshuang Huang**, Jiayin Cai, Xiaolong Jiang, Yao Hu, Long Chen <br>
+
+<a href="https://arxiv.org/abs/2510.11026">Paper</a>, <a href="https://hkust-longgroup.github.io/GIR-Bench/">Code</a> <br>
+
+International Conference on Learning Representations (ICLR), 2026.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMI</div><img src='images/TMI-reclmis.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
 [MedPLIB: Towards a Multimodal Large Language Model with Pixel-Level Insight for Biomedicine](https://arxiv.org/abs/2412.09278)
 
 **Xiaoshuang Huang**, Lingdong Shen, Jia Liu, Fangxin Shang, Hongxiang Li, Haifeng Huang, Yehui Yang <br>
@@ -60,6 +74,7 @@ The 39th Annual AAAI Conference on Artificial Intelligence (AAAI), 2025.
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMI</div><img src='images/TMI-reclmis.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+  
 [Cross-Modal Conditioned Reconstruction for Language-guided Medical Image Segmentation](https://ieeexplore.ieee.org/document/10816606)
 
 **Xiaoshuang Huang**, Hongxiang Li, Meng Cao, Long Chen, Chenyu You, Dong An <br>
