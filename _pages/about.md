@@ -59,7 +59,7 @@ International Conference on Learning Representations (ICLR), 2026.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMI</div><img src='images/TMI-reclmis.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI2025</div><img src='images/AAAI2025-medplib.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [MedPLIB: Towards a Multimodal Large Language Model with Pixel-Level Insight for Biomedicine](https://arxiv.org/abs/2412.09278)
